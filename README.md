@@ -52,5 +52,5 @@ Total Price - 79.91
 <h3>Using unfamiliar technology</h3>
 <p>At first I wanted to use a raspberry pi until I found out how much they would hurt the budget and so I looked for alternatives. One that I found was called the Banana Pi Zero and it's just like a normal raspberry pi zero except it doesn't support python natively nor does it use any mainstream OS. I spent so much time figuring that thing out only to realize that the camera connector was the wrong kind and I couldn't find the right one anywhere online.</p>
 
-
+https://www.tinkercad.com/things/9lE8PebDFi7-stabalized-car
 
